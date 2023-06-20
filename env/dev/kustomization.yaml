@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/sashatooryani/demo-app
-  newTag: latest
+  newTag: 8b391a764a9f90e49aca29359db0b5804eb7755c
