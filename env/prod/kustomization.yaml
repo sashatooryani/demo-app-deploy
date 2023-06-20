@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/sashatooryani/demo-app
+  newTag: 4259752014e2159748dd2ddbd6fb9560ef8e0a55
